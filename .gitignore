@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#jo b kaam kro us k baad eik branch banoe e.g(git checkout -b feature/made-index-files)
+#us k baad jaisay tray may dishes daltay hain waisay code ko tray may dal (git add .)
+#ye maloom krna ho k kiya dala hai us k liyay (git staus -s)
+#ab tray ko kitchen may lay joe (git commit -m "aur koi message likh do")
+#phir tray ko dishwasher may daal do (git push)
+#us k baad wo khud eik command de ga (usko copy and paste kro)
+#us say PR (pull request) ka link banay ga (nishani -> pull ka word)
+#us link pr jana hai aur create pr pr click kr k sojana hai
